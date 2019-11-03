@@ -1,0 +1,300 @@
+
+.col-sm-8{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-sm-4{
+    background-color: black;
+    color: white;
+    /*border: 1px solid white;*/
+    padding: 10px;
+}
+.col-sm-3{
+    background-color: black;
+    color: white;
+    /*border: 1px solid white;*/
+    padding: 10px;
+}
+
+.other{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+    text-decoration: none;
+}
+.col-sm-6{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-lg-8{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-lg-4{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.col-lg-3{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.col-lg-12{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.col-lg-6{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+}
+
+i{
+    color: white;
+    
+}
+.box1 a{
+    color: white;
+}
+.box1 a:hover{
+    color: green;
+    text-decoration: none;
+}
+
+
+.box5{
+    height: 57px;
+    text-align: center;
+}
+.box5 p{
+    color: green;
+    text-align: left;
+    font-size: 10px;
+}
+.box5 a i{
+  height:100px;
+  width:auto;
+    color:green;
+    text-decoration: none;
+}
+.box5 a i:hover{
+    color: white;
+}
+
+.box22{
+    height: 200px;
+    font-size: 100px;
+    padding-top: 50px;
+    color: black;
+    background-color: white;
+}
+.box23{
+height: 350px;
+color: black;
+background-color: white;
+}
+.box24{
+    height: 350px;
+    color: black;
+    background-color: white;
+}
+.box25{
+    height: 350px;
+    color: black;
+    background-color: white;
+}
+
+.box27{
+    text-align: center;
+}
+.box27 a{
+    padding: 30px;
+}
+.box35{
+    height: 800PX;
+  background-color:#aaa;
+    text-align: center
+}
+.box355{
+    height: 800PX;
+    text-align: center
+}
+.box35 h1{
+    padding: 50px;
+}
+.box36{
+    height: 870PX;
+}
+.box37{
+  text-align:center;
+    height: 400px;     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    background: url(https://i.ytimg.com/vi/R8LYxTT9wmY/maxresdefault.jpg);
+    background-size:100% 100%;
+  
+}
+.box377{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  text-align:center;
+    background-color: white;
+    height: 100px;
+    color:black;
+  
+
+}
+.box38{
+  text-align:center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    height: 400px; 
+    background: url(https://www.pyimagesearch.com/wp-content/uploads/2014/06/sunset_ocean.jpg);
+    background-size:100% 100%;
+   
+}
+.box388{
+  text-align:center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    background-color: white;
+    height: 100px;
+    color:black;
+    
+}
+.box39{
+  text-align:center;
+  
+height: 400px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    background: url(https://www.smartdatacollective.com/wp-content/uploads/2019/02/future-of-data-analytics-in-2025.jpg);
+    background-size:100% 100%;
+  
+   
+}
+.box399{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  text-align:center;
+  
+
+
+    background-color: white;
+    height: 100px;
+    color:black;
+    
+}
+h3{
+    text-decoration: underline;
+    padding-left: 50px;
+}
+h4{
+    padding-left: 50px;
+}
+.container{
+    width: 100%;
+    border: 1px solid white;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media screen and (max-width:1200px){
+    .box4{
+        background-size: 320px 400px;
+    }
+}
+@media screen and (max-width:992px){
+    .box4{
+        background-size: 250px 400px;
+    }
+}
+@media screen and (max-width:768px){
+    .box1 ul li{
+        color: red;
+        padding-left: 9px;
+        padding-right: 9px;
+
+    }
+    .box1 i{
+        color: red;
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+    .box27 ul li{
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+}
+.b{
+  
+  background-image: linear-gradient(to right, rgb(10,180,10), rgb(250,250,20));
+
+}
+.f{
+  height=140px;
+  display: inline-block;
+
+  
+  width:100%;
+  
+
+   
+  border-width: 1px;
+ background-color:#111;
+}
+.boxx{
+ display: inline-block;
+  font-family:helvetica;
+  color:white;
+  
+  
+ 
+
+ 
+ 
+  height:60px;
+  width:100%;
+  border:;
+  border-width:1px;
+}
+.image-cropper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+input:{background-color: green;}
